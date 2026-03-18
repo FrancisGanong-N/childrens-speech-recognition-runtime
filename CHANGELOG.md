@@ -1,5 +1,9 @@
 # Changelog
 
+## 2-26--3-18
+
+- Add 'praat' to apt.txt
+
 ## 2026-03-12
 
 - Add `flashlight-text`, `kenlm`, and `pyctcdecode` to the runtime to support language model–based CTC decoding.
